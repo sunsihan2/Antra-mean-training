@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+.signup-form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+}
+
+#signUp{
+    text-align: center;
+}
+
+input{
+    padding: 10px 30px;
+    margin: 9px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+}
+
+button{
+    margin: 10px 10px;
+    padding: 12px 78px;
+    
+}
+
+.register{
+    background-color: #3cbaab;
+    border:none;
+    border-radius: 5px;
+    color: rgb(248, 246, 246);
+}
+
+.sign-in{
+    background-color: #7726ad;
+    border: none;
+    border-radius: 5px;
+    color: rgb(246, 242, 242);
+}
